@@ -1,0 +1,27 @@
+/*body {
+  background-color: #FFFFFF;
+}
+
+.skin-green-light .main-header .navbar {
+    background-color: #313131;
+}
+
+.skin-green-light .main-header .logo {
+    background-color: #313131;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+
+
+.skin-green-light .main-header .logo:hover {
+    background-color:#313131;
+    color: #fff;
+} */
+
+/*.skin-green-light .left-side, .skin-green-light .main-sidebar, .skin-green-light .wrapper {
+    background-color: gray;
+} */
+
+.main-header .sidebar-toggle:hover {
+  background-color: #313131;
+}
